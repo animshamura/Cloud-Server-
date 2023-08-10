@@ -1,0 +1,1 @@
+Start-Process 'Docker Desktop Installer.exe' -Wait install
